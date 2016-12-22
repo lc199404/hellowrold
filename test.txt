@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-www.lc.com
-=======
->>>>>>> change
+lc.com
 www.lc.com
